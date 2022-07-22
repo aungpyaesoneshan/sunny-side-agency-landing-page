@@ -308,9 +308,9 @@ footer section .social-link-container i:hover{
     margin-bottom: 15px;
     background-color: var(--dark_cyan_footer);
     color: white;
-    height: 50px;
     margin: 0;
-    line-height: 50px;
+    padding:10px;
+    
 }
 .attribution a{
     color: var(--very_dark_blue);

@@ -301,6 +301,25 @@ footer section .social-link-container i{
 footer section .social-link-container i:hover{
     color: var(--white);
 }
+/* ------------my frontend mentor user link------------ */
+.attribution{ 
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 15px;
+    background-color: var(--dark_cyan_footer);
+    color: white;
+    height: 50px;
+    margin: 0;
+    line-height: 50px;
+}
+.attribution a{
+    color: var(--very_dark_blue);
+    font-weight: 700;
+    font-family: var(--font_fraunces);
+}
+.attribution a:hover{
+    color: var(--very_dark_grayish_blue);
+}
 /* -----------media quiries------------ */
 @media  screen and (max-width:1200px) {
     header figcaption h1{

@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[(https://github.com/Aung-Pyae-Sone-Shan/intro-section-with-dropdown-navigation-main)](https://github.com/Aung-Pyae-Sone-Shan/sunnyside-agency-landing-page-main)
+- Solution URL:[(https://github.com/aungpyaesoneshan/sunny-side-agency-landing-page)](https://github.com/aungpyaesoneshan/sunny-side-agency-landing-page)
 - Live Site URL:[(https://aung-pyae-sone-shan.github.io/intro-section-with-dropdown-navigation-main/)](https://aung-pyae-sone-shan.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
@@ -47,7 +47,7 @@ Users should be able to:
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@Aung-Pyae-Sone-Shan](https://www.frontendmentor.io/profile/Aung-Pyae-Sone-Shan)
+- Frontend Mentor - [@Aung-Pyae-Sone-Shan](https://www.frontendmentor.io/profile/Happycloud250)
 - LinkedIn - [@Aung-Pyae-Sone-Shan](https://www.linkedin.com/in/aung-pyae-sone-shan/)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 

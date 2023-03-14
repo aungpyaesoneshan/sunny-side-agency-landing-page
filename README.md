@@ -1,6 +1,4 @@
-# Frontend Mentor - Intro section with dropdown navigation solution
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -17,13 +15,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ## Overview
 
-### The challenge
 
-Users should be able to:
-
-- View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
-- View the optimal layout for the content depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
@@ -33,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:[(https://github.com/aungpyaesoneshan/sunny-side-agency-landing-page)](https://github.com/aungpyaesoneshan/sunny-side-agency-landing-page)
-- Live Site URL:[(https://aung-pyae-sone-shan.github.io/intro-section-with-dropdown-navigation-main/)](https://aung-pyae-sone-shan.github.io/sunnyside-agency-landing-page-main/)
+- Live Site URL:[(https://aung-pyae-sone-shan.github.io/sunnyside-agency-landing-page-main/)](https://aung-pyae-sone-shan.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
